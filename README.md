@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @reizucodes
-- 👀 I’m interested in learning more about web development
-- 🌱 I’m currently learning basic HTML, JS, PHP and web development related frameworks
-- 💞️ I’m looking to collaborate on basic web development projects...
+- 👋 Hi, I’m John Blaise Bueno
+- 👀 I am open to exploring fields such as web development, data analysis/mining, machine learning and embedded systems.
+- 💼 I’m currently working as a **Software Developer** specializing in _back-end web development_.
+- ⛏️ PHP, Laravel, JavaScript, Node.JS, Flutter, Dart, Tailwind CSS, C++, Python
 - 📫 How to reach me:
-  📷 _blaisebueno
- 
+  - blaisebueno@gmail.com
+  - https://www.linkedin.com/in/john-blaise-bueno
+- 💼 https://github.com/blaisebueno
 
 <!---
 reizucodes/reizucodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
