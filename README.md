@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Blaise Bueno
 - 👀 I am open to exploring fields such as web development, data analysis/mining, machine learning and embedded systems.
-- 💼 I’m currently working as a **Software Developer** specializing in _back-end web development_.
+- 💼 I’m currently working as a **Software Developer** specializing in **back-end web development**.
 - ⛏️ PHP, Laravel, JavaScript, Node.JS, Flutter, Dart, Tailwind CSS, C++, Python
 - 📫 How to reach me:
   - blaisebueno@gmail.com
